@@ -3,8 +3,7 @@
 A machine learning project that classifies SMS messages as **spam** or **ham** (not spam) using natural language processing (NLP) and evaluates multiple ML models using scikit-learn.
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Status](https://img.shields.io/badge/Status-Completed-success)
+
 
 ---
 
